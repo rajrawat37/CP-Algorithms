@@ -1,3 +1,3 @@
 # CP-Algorithms
 
-My java template for various CP algorithms and some common techniques used in competitive programming.
+Here is my java template for various CP algorithms and some common techniques used in competitive programming.
